@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\android\Documents\Nova pasta\AlunoDAO.cs" Link="AlunoDAO.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="View\Cursos\" />
+    <Folder Include="View\Aluno\" />
+    <Folder Include="View\view\" />
+  </ItemGroup>
+
+</Project>
